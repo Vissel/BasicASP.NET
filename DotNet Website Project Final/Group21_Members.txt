@@ -1,0 +1,4 @@
+STT	MSSV		Họ tên			Mail
+1	14130321	Nguyễn Ngọc Thạch	14130321@st.hcmuaf.edu.vn
+2	16130646	Phạm Quang Tuấn		16130646@st.hcmuaf.edu.vn
+3	16130419	Nguyễn Lê Khang		16130419@st.hcmuaf.edu.vn
